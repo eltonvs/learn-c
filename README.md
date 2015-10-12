@@ -43,6 +43,7 @@ Aprenda C de maneira didática e prática, de forma limpar e intuitiva, com apre
   - Arranjos
   - Arranjos e Ponteiros
 12. Strings
+  - Leitura de Strings
   - Strings e Arranjos
   - Manipulação de Strings
 13. Operadores de Bits
