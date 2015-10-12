@@ -2,7 +2,7 @@
 Aprenda a Linguagem C de maneira prática
 
 ## Sobre
-...
+Aprenda C de maneira didática e prática, de forma limpar e intuitiva, com apresentação de exemplos e atividades com resoluções.
 
 ## Roteiro
 1. Introdução
