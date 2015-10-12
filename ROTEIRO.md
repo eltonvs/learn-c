@@ -1,4 +1,13 @@
 #Learn C
+
+##Sugestões
+1. História da Linguagem
+2. Como o computador ve um programa
+3. Compiladores
+4. Como compilar (Windows/Mac/Linux)
+5. Estrutura básica de um programa em C
+
+##Roteiro
 1. Tipos de variáveis I - entrada e saída
   * decimal e inteiro
   * Atividade simples
