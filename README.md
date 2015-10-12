@@ -1,8 +1,8 @@
 # Learn C
-Aprenda a Linguagem C de maneira prática
+Aprenda C de maneira prática
 
 ## Sobre
-Aprenda C de maneira didática e prática, de forma limpar e intuitiva, com apresentação de exemplos e atividades com resoluções.
+Aprenda C de maneira didática e prática, de forma limpa e intuitiva, com apresentação de exemplos e atividades com resoluções.
 
 ## Roteiro
 1. Introdução
@@ -53,3 +53,11 @@ Aprenda C de maneira didática e prática, de forma limpar e intuitiva, com apre
   - Conceitos
   - Registros e Ponteiros
   - Registros e Funções
+
+## Contribua
+Qualquer contribuição é bem vinda.
+
+Não sabe programar? Sem problema, ajude-nos com traduções
+para outros idiomas para que possamos ajudar mais pessoas!
+
+Então, dê um fork no projeto e contribua!
