@@ -6,6 +6,7 @@
 3. Compiladores
 4. Como compilar (Windows/Mac/Linux)
 5. Estrutura básica de um programa em C
+6. Operadores Ternários e Unários
 
 ##Roteiro
 1. Tipos de variáveis I - entrada e saída
