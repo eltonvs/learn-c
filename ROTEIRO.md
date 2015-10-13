@@ -9,7 +9,8 @@
 6. Operadores Ternários e Unários
 
 ##Roteiro
-1. Tipos de variáveis I - entrada e saída
+1. Tipos de variáveis I e entrada / saída
+  * saída (printf) e entrada (scanf)
   * decimal e inteiro
   * Atividade simples
 
