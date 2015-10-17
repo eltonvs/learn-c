@@ -8,49 +8,50 @@ Aprenda C de maneira didática e prática, de forma limpa e intuitiva, com apres
 1. Introdução
   - Compiladores
   - Estrutura Básica
-2. Entrada e Saída
-  - scanf()
+2. Saída de Dados
   - printf()
 3. Tipos de Variáveis I
   - Números Inteiros
   - Saída com Variáveis
-4. Estruturas Condicionais
+4. Entrada de dados
+  - scanf()
+5. Estruturas Condicionais
   - Operadores Lógicos
   - if ... else
   - else if
   - switch case
   - Lógica ternária
-5. Estruturas de Repetição
+6. Estruturas de Repetição
   - while
   - do ... while
   - for
-6. Tipos de Variáveis II
+7. Tipos de Variáveis II
   - float
   - double
   - char
   - Conversão Explícita
   - sizeof()
-7. Subrotinas
+8. Subrotinas
   - Funções
   - Procedimentos
-8. Recursão
+9. Recursão
   - Conceitos
-9. Ponteiros
+10. Ponteiros
   - Conceitos
-10. Passagem de Parâmetros
+11. Passagem de Parâmetros
   - Ponteiros e Funções
 12. Arranjos (Arrays)
   - Vetores
   - Arranjos
   - Arranjos e Ponteiros
-12. Strings
+13. Strings
   - Leitura de Strings
   - Strings e Arranjos
   - Manipulação de Strings
-13. Operadores de Bits
+14. Operadores de Bits
   - Conceitos
   - Utilidades
-14. Registros (Structs)
+15. Registros (Structs)
   - Conceitos
   - Registros e Ponteiros
   - Registros e Funções
