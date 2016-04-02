@@ -2,7 +2,7 @@
 Aprenda C de maneira prática
 
 ## Sobre
-Aprenda C de maneira didática e prática, de forma limpa e intuitiva, com apresentação de exemplos e atividades com resoluções.
+Aprenda C de maneira didática, prática, limpa e intuitiva, com apresentação de exemplos e atividades com resoluções.
 
 ## Roteiro
 1. Introdução
